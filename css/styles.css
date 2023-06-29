@@ -1,0 +1,92 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Estilos específicos para la página de inicio */
+h1, h2 {
+  text-align: center;
+  padding: 20px;
+}
+
+ul li, p {
+  padding: 0 20px;
+}
+
+p {
+  text-align: center;
+}
+
+/* Estilos específicos para las páginas de destino */
+a {
+  display: block;
+  text-align: center;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  margin: 20px auto;
+  width: 200px;
+  border-radius: 5px;
+}
+
+a:hover {
+  background-color: #555;
+}
+
+/* Estilos específicos para el formulario de contacto */
+form {
+  width: 300px;
+  margin: 20px auto;
+}
+
+input[type="text"], textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+input[type="submit"] {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #555;
+}
+
+/* Estilos específicos para los videos */
+video {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
