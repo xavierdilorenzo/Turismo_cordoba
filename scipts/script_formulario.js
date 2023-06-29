@@ -22,6 +22,6 @@ form.addEventListener('submit', (event) => {
   }
 
   // Enviar formulario (ejemplo)
-  alert('¡Formulario enviado exitosamente!');
+  alert('Formulario enviado exitosamente');
   form.reset();
 });
