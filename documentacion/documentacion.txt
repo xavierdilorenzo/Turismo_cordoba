@@ -1,0 +1,13 @@
+Hola, esta es la documentacion de la pagina "Turismo Cordoba" los roles asignados fueron:
+Di lorenzo xavier= Scrum Master and Developet (frontend and backend)
+Gianna Abregu= Developer (backend)
+Benjamin Puerta= Developer (BackEnd)
+Maximo Gurrero= Developer (FrontEnd)
+Axel Patricio= developer (FrontEnd)
+la planificacion de los sprints fue en el primer srpint lo que seria el 
+html basico y los videos e imagenes en el sprint 2 lo que seria el css y el javascript y en el
+sprint 3 lo que seria el Crud.
+esto es basicamente la organizacion que tuvimos y por cuestinos de conectividad a internet hicimos
+al final el repositorio de github con la organizacion que planteamos al comienzo entre los integrantes del
+equipo. A pesar de no tener angular y typescript creemos que este trabajo es digno de ser aprobado ya que el esfuerzo
+de cada integrante fue realizado a lo largo del curso. muchas gracias equipo de turismo cordoba.
