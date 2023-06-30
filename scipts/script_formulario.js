@@ -25,3 +25,18 @@ form.addEventListener('submit', (event) => {
   alert('Formulario enviado exitosamente');
   form.reset();
 });
+
+// Animación para los botones
+const socialButtons = document.querySelectorAll('.social-button');
+
+socialButtons.forEach((button) => {
+  button.addEventListener('mouseover', () => {
+    button.style.transform = 'scale(1.1)';
+    button.style.transition = 'transform 0.3s';
+  });
+
+  button.addEventListener('mouseout', () => {
+    button.style.transform = 'scale(1)';
+    button.style.transition = 'transform 0.3s';
+  });
+});
